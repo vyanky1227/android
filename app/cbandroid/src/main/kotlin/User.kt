@@ -1,5 +1,3 @@
-import jdk.jfr.DataAmount
-
 fun main() {
     val account = Account(12345, "vyanky", 10000f)
     val account2 = Account(12345)
